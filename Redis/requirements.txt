@@ -1,0 +1,8 @@
+redis
+redisvl
+python-ulid
+pydantic
+langgraph
+langgraph-checkpoint-redis
+langchain-ollama
+python-dotenv
