@@ -1,0 +1,6 @@
+cognee==0.3.3
+python-dotenv
+
+# Pinned: cognee's default resolution backtracks to litellm 1.93.0, which has
+# no prebuilt Windows wheel and needs a Rust toolchain to build from source.
+litellm==1.71.0
