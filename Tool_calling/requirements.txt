@@ -1,0 +1,4 @@
+langgraph
+langchain-arcade
+langchain[openai]
+python-dotenv
